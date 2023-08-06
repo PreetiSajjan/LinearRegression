@@ -1,4 +1,4 @@
-# LinearRegression
+# LogisticRegression
 Implementation of Linear Regression from scratch in Python
 
 Results: 
