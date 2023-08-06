@@ -1,5 +1,5 @@
 # LogisticRegression
-Implementation of Linear Regression from scratch in Python
+Implementation of Logistic Regression from scratch in Python
 
 Results: 
 Below are the results for implemented logistic regression after repeating the process 10 times with a random division of 2/3 train data and 1/3 test data. 
